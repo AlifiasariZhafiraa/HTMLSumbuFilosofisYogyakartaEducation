@@ -1,0 +1,40 @@
+.fas {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.nav-link :hover {
+    background-color:grey;
+}
+
+.collapse ul li a:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.row ul li a:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.card {
+    margin-left: 1.5rem;
+    margin-top: 0rem;
+    margin-right: 1.5rem;
+}
+
+.card:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.card .center .btn:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
